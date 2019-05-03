@@ -23,6 +23,21 @@ export class AppComponent {
       title: 'List',
       url: '/list',
       icon: 'list'
+    },
+    {
+      title:'Scanner',
+      url:'/scan',
+      icon:'qr-scanner'
+    },
+    {
+      title:'Login',
+      url:'/login',
+      icon:'log-in'
+    },
+    {
+      title:'Register',
+      url:'/register',
+      icon:'person-add'
     }
   ];
 
